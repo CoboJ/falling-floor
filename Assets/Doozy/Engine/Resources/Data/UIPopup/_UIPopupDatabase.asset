@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5c04155d43740f46a3223a7eb386e0c, type: 3}
+  m_Name: _UIPopupDatabase
+  m_EditorClassIdentifier: 
+  PopupNames:
+  - Defeat
+  - Selected
+  - Victory
+  Popups:
+  - {fileID: 11400000, guid: 2777e37d0f1df47048a70063089f55ba, type: 2}
+  - {fileID: 11400000, guid: f5f1f395e9d124e198ab688a5c354754, type: 2}
+  - {fileID: 11400000, guid: ee6723de0820946c0b192d53bac1495c, type: 2}

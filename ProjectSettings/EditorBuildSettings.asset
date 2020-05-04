@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/CoboStudiosLogo/LogoScene.unity
+    guid: 16eb2f2633ab1435c8179a6ce605dc4e
+  - enabled: 1
+    path: Assets/Scenes/A_MainMenu_Scene.unity
+    guid: 46ba339fc25824119975c0afd2cb22e7
+  - enabled: 1
+    path: Assets/Scenes/GrassMap_1.unity
+    guid: 941762edd07c24d3bbd41e54b32cc325
+  - enabled: 1
+    path: Assets/Scenes/GrassMap_2.unity
+    guid: 2e3cb5e7ac8424cd0b211702d5c2a105
+  - enabled: 1
+    path: Assets/Scenes/GrassMap_3.unity
+    guid: 8523685585d0a467e97b1e59088f4cbd
+  - enabled: 1
+    path: Assets/Scenes/SandMap_1.unity
+    guid: 35695967069b14043aebac9d90f1d03d
+  - enabled: 1
+    path: Assets/Scenes/SandMap_2.unity
+    guid: c3c3e4e57cc114789b7e982adf2023d8
+  - enabled: 1
+    path: Assets/Scenes/SandMap_3.unity
+    guid: ef2993418a6a4419ebbaf520abd0f6e0
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_1.unity
+    guid: 65d36bc00cfa8431db6a258804e9fd85
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_2.unity
+    guid: a0b78ec7b58b9454aa311f0943bff13a
+  - enabled: 1
+    path: Assets/Scenes/SnowMap_3.unity
+    guid: 3f95d3ccad7ca4341aae55af01a319f8
+  m_configObjects: {}
